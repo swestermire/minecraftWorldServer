@@ -1,0 +1,266 @@
+[16:36:53] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_111]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
+	at lh$2.run(SourceFile:95) [run.jar:?]
+[16:36:53] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[16:36:53] [Server thread/INFO]: Loading properties
+[16:36:53] [Server thread/INFO]: Default game type: SURVIVAL
+[16:36:53] [Server thread/INFO]: Generating keypair
+[16:36:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:36:53] [Server thread/INFO]: Using default channel type
+[16:36:53] [Server thread/INFO]: Preparing level "world"
+[16:36:53] [Server thread/INFO]: Preparing start region for level 0
+[16:36:54] [Server thread/INFO]: Preparing spawn area: 2%
+[16:36:55] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 716ab3f8-be66-4e0e-a355-931830c0f072
+[16:36:55] [Server thread/INFO]: Preparing spawn area: 50%
+[16:36:55] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID cc4a2917-2086-4b0a-af64-cd0dfe06372a
+[16:36:55] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 8f01184e-09dd-4ce0-9700-a973f87b5660
+[16:36:55] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID fc24930c-6c52-4ec8-9383-2f66b18835bb
+[16:36:56] [Server thread/INFO]: Preparing spawn area: 80%
+[16:36:57] [Server thread/INFO]: Done (3.328s)! For help, type "help" or "?"
+[16:37:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2744ms behind, skipping 54 tick(s)
+[16:38:25] [User Authenticator #1/INFO]: UUID of player Rmphoenix66 is 46b16254-5521-434d-9786-f28397dbc863
+[16:38:25] [Server thread/INFO]: Rmphoenix66[/192.168.0.100:60251] logged in with entity id 196 at (606.645954769681, 44.0, 370.69999998807907)
+[16:38:25] [Server thread/INFO]: Rmphoenix66 joined the game
+[16:47:40] [User Authenticator #2/INFO]: UUID of player BigDaddyPappaSan is fbbd0673-aa39-4d5a-a054-ffeb3a96e837
+[16:47:41] [Server thread/INFO]: BigDaddyPappaSan[/192.168.0.104:51993] logged in with entity id 8590 at (-3524.091923152801, 11.0, 184.694883485263)
+[16:47:41] [Server thread/INFO]: BigDaddyPappaSan joined the game
+[16:48:12] [Server thread/INFO]: Rmphoenix66 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:48:12] [Server thread/INFO]: Rmphoenix66 left the game
+[16:50:35] [Server thread/INFO]: BigDaddyPappaSan was shot by Skeleton
+[17:05:48] [Server thread/INFO]: BigDaddyPappaSan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:05:48] [Server thread/INFO]: BigDaddyPappaSan left the game
+[17:06:43] [User Authenticator #3/INFO]: UUID of player BigDaddyPappaSan is fbbd0673-aa39-4d5a-a054-ffeb3a96e837
+[17:06:43] [Server thread/INFO]: BigDaddyPappaSan[/192.168.0.104:52008] logged in with entity id 32509 at (-3091.630315433965, 10.0, 183.11013206017023)
+[17:06:43] [Server thread/INFO]: BigDaddyPappaSan joined the game
+[17:07:57] [Server thread/INFO]: BigDaddyPappaSan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:07:57] [Server thread/INFO]: BigDaddyPappaSan left the game
+[17:10:42] [User Authenticator #4/INFO]: UUID of player BigDaddyPappaSan is fbbd0673-aa39-4d5a-a054-ffeb3a96e837
+[17:10:42] [Server thread/INFO]: BigDaddyPappaSan[/192.168.0.104:52013] logged in with entity id 33173 at (-2966.300000011921, 15.0, 195.5061014299338)
+[17:10:42] [Server thread/INFO]: BigDaddyPappaSan joined the game
+[17:38:15] [Server thread/INFO]: BigDaddyPappaSan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:38:15] [Server thread/INFO]: BigDaddyPappaSan left the game
+[17:52:10] [User Authenticator #5/INFO]: UUID of player BigDaddyPappaSan is fbbd0673-aa39-4d5a-a054-ffeb3a96e837
+[17:52:10] [Server thread/INFO]: BigDaddyPappaSan[/192.168.0.104:52039] logged in with entity id 45055 at (-2677.9252533971826, 21.0, 185.55081352037664)
+[17:52:10] [Server thread/INFO]: BigDaddyPappaSan joined the game
+[18:00:25] [Server thread/INFO]: BigDaddyPappaSan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:00:25] [Server thread/INFO]: BigDaddyPappaSan left the game
+[18:02:32] [User Authenticator #6/INFO]: UUID of player BigDaddyPappaSan is fbbd0673-aa39-4d5a-a054-ffeb3a96e837
+[18:02:32] [Server thread/INFO]: BigDaddyPappaSan[/192.168.0.104:52044] logged in with entity id 48989 at (-2673.1853167180757, 17.0, 180.0073186513311)
+[18:02:32] [Server thread/INFO]: BigDaddyPappaSan joined the game
+[18:33:23] [Server thread/INFO]: BigDaddyPappaSan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:33:23] [Server thread/INFO]: BigDaddyPappaSan left the game
+[18:38:49] [User Authenticator #7/INFO]: UUID of player BigDaddyPappaSan is fbbd0673-aa39-4d5a-a054-ffeb3a96e837
+[18:38:49] [Server thread/INFO]: BigDaddyPappaSan[/192.168.0.104:52067] logged in with entity id 69204 at (-3510.524282188729, 64.0, 207.52619687191805)
+[18:38:49] [Server thread/INFO]: BigDaddyPappaSan joined the game
+[18:53:25] [Server thread/INFO]: BigDaddyPappaSan was slain by Spider
+[18:57:19] [Server thread/INFO]: BigDaddyPappaSan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:57:19] [Server thread/INFO]: BigDaddyPappaSan left the game
+[19:06:26] [User Authenticator #8/INFO]: UUID of player BigDaddyPappaSan is fbbd0673-aa39-4d5a-a054-ffeb3a96e837
+[19:06:26] [Server thread/INFO]: BigDaddyPappaSan[/192.168.0.104:52079] logged in with entity id 84050 at (-3502.5445158311923, 55.0, 186.18599518614758)
+[19:06:26] [Server thread/INFO]: BigDaddyPappaSan joined the game
+[19:17:32] [Server thread/INFO]: BigDaddyPappaSan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:17:32] [Server thread/INFO]: BigDaddyPappaSan left the game
+[19:25:15] [User Authenticator #9/INFO]: UUID of player BigDaddyPappaSan is fbbd0673-aa39-4d5a-a054-ffeb3a96e837
+[19:25:15] [Server thread/INFO]: BigDaddyPappaSan[/192.168.0.104:52090] logged in with entity id 99547 at (-4559.509999990463, 92.7125, 183.5)
+[19:25:15] [Server thread/INFO]: BigDaddyPappaSan joined the game
+[19:47:29] [User Authenticator #10/INFO]: UUID of player Rmphoenix66 is 46b16254-5521-434d-9786-f28397dbc863
+[19:47:29] [Server thread/INFO]: Rmphoenix66[/192.168.0.100:60488] logged in with entity id 164514 at (-103.69999998807907, 54.0, 712.6999999880791)
+[19:47:29] [Server thread/INFO]: Rmphoenix66 joined the game
+[19:47:49] [Server thread/INFO]: Rmphoenix66 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:47:49] [Server thread/INFO]: Rmphoenix66 left the game
+[19:48:10] [User Authenticator #11/INFO]: UUID of player Rmphoenix66 is 46b16254-5521-434d-9786-f28397dbc863
+[19:48:10] [Server thread/INFO]: Rmphoenix66[/192.168.0.100:60498] logged in with entity id 165337 at (-102.68087519797061, 54.0, 710.7783693141831)
+[19:48:10] [Server thread/INFO]: Rmphoenix66 joined the game
+[19:48:51] [Server thread/INFO]: <Rmphoenix66> y
+[19:48:59] [Server thread/INFO]: Rmphoenix66 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:48:59] [Server thread/INFO]: Rmphoenix66 left the game
+[19:49:43] [User Authenticator #12/INFO]: UUID of player Rmphoenix66 is 46b16254-5521-434d-9786-f28397dbc863
+[19:49:43] [Server thread/INFO]: Rmphoenix66[/192.168.0.100:60878] logged in with entity id 167114 at (-102.19272462209442, 54.0, 709.9800325338806)
+[19:49:43] [Server thread/INFO]: Rmphoenix66 joined the game
+[20:14:40] [Server thread/WARN]: Rmphoenix66 moved wrongly!
+[20:15:06] [Server thread/INFO]: BigDaddyPappaSan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:15:06] [Server thread/INFO]: BigDaddyPappaSan left the game
+[20:40:37] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.399855828813543,0.0,0.02575374116651119
+[20:40:37] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.79985346666524,0.0,0.026843289998168984
+[20:40:37] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.199851173838852,0.0,0.027935097383931407
+[20:40:37] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.599848943402094,0.0,0.029028937468297045
+[20:40:37] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.999846769116061,0.0,0.030124606981416946
+[20:40:37] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -12.399844645365647,0.0,0.031221922980364525
+[20:40:37] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -12.799842567097357,0.0,0.03232072081647175
+[20:40:37] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -13.199840529762923,0.0,0.03342085230599423
+[20:40:37] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -13.59983852926905,0.0,0.03452218408358476
+[20:40:38] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.39994940306076,0.0,0.028680757302311122
+[20:40:38] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.79994768436518,0.0,0.029791270259579505
+[20:40:38] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.199945970646127,0.0,0.030901945357925342
+[20:40:38] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.599944261405994,0.0,0.032012766383161306
+[20:40:38] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.999942556196856,0.0,0.03312371874267228
+[20:40:38] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -12.399940854615807,0.0,0.03423478930295687
+[20:40:38] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -12.799939156299843,0.0,0.03534596624399455
+[20:40:38] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -13.199937460922456,0.0,0.03645723892765318
+[20:40:38] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -13.59993576818988,0.0,0.03756859777968202
+[20:40:38] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -13.999934077837679,0.0,0.03868003418324406
+[20:40:43] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.3999566066812,0.0,0.028915456163133513
+[20:40:43] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.799954937743621,0.0,0.03002759027214097
+[20:40:43] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.199953268806837,0.0,0.03113972440701218
+[20:40:43] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.599951599870735,0.0,0.03225185856513235
+[20:40:43] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.999949930935315,0.0,0.0333639927441709
+[20:40:43] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -12.399948262000464,0.0,0.03447612694202462
+[20:40:43] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -12.799946593066124,0.0,0.03558826115681768
+[20:40:43] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -13.19994492413224,0.0,0.036700395386844775
+[20:40:44] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.39995660774656,0.0,0.028915490865131233
+[20:40:44] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.799954938816313,0.0,0.030027625213847386
+[20:40:44] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.199953269886123,0.0,0.031139759564439373
+[20:40:44] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.59995160095599,0.0,0.03225189391667982
+[20:40:44] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.999949932025913,0.0,0.03336402827045504
+[20:40:44] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -12.399948263095894,0.0,0.034476162625537654
+[20:40:44] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -12.799946594165874,0.0,0.035588296981870826
+[20:40:44] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -13.199944925235911,0.0,0.03670043133928402
+[20:40:44] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -13.599943256306005,0.0,0.03781256569766356
+[20:40:44] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -13.9999415873761,0.0,0.03892470005695259
+[20:40:44] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -14.39993991844625,0.0,0.040036834417037426
+[20:40:44] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -14.799938249516401,0.0,0.04114896877786123
+[20:40:44] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -15.199936580586552,0.0,0.04226110313931031
+[20:40:44] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -15.59993491165676,0.0,0.04337323750132782
+[20:40:44] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -15.999933242726968,0.0,0.044485371863856926
+[20:40:44] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -16.399931573797176,0.0,0.04559750622689762
+[20:40:46] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.399956607823015,0.0,0.028915493356180377
+[20:40:46] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.799954938893336,0.0,0.030027627722120087
+[20:40:46] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.199953269963657,0.0,0.031139762088173484
+[20:40:46] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.599951601033979,0.0,0.03225189645434057
+[20:40:46] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.9999499321043,0.0,0.03336403082062134
+[20:40:46] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -12.399948263174622,0.0,0.034476165187015795
+[20:40:46] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -12.799946594244943,0.0,0.03558829955352394
+[20:40:46] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -13.199944925315265,0.0,0.036700433920088926
+[20:40:48] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.399956607823015,0.0,0.028915493357658306
+[20:40:48] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.799954938893336,0.0,0.030027627724905415
+[20:40:48] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.199953269963657,0.0,0.031139762092152523
+[20:40:48] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.599951601033979,0.0,0.03225189645939963
+[20:40:48] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.9999499321043,0.0,0.03336403082664674
+[20:40:48] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -12.399948263174622,0.0,0.03447616519389385
+[20:40:49] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.399956607828358,0.0,0.02891549354842482
+[20:40:49] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.79995493889868,0.0,0.03002762791567193
+[20:41:13] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.07316837460823,0.0,2.108814261487396
+[20:41:13] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.469552338004377,0.0,2.1474574121838828
+[20:41:13] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.866279070824419,0.0,2.18346323900289
+[20:41:13] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.263317552021533,0.0,2.216984308472945
+[20:41:13] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.660639266607859,0.0,2.248169423103036
+[20:41:13] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -12.058218122686583,0.0,2.277160166672843
+[20:41:13] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -12.45603018679111,0.0,2.304095462048963
+[20:41:13] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -12.85405360587768,0.0,2.329108004825571
+[20:41:13] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -13.252268451437118,0.0,2.352324887274335
+[20:41:13] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -13.650656612722969,0.0,2.3738643250036944
+[20:41:13] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -14.04920158517291,0.0,2.3938403795789895
+[20:41:13] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -14.447888343317885,0.0,2.412363374567178
+[20:41:13] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -14.846703259927978,0.0,2.429536435081559
+[20:41:13] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -15.245634029518385,0.0,2.445452373197895
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.36149058638091,0.0,0.4989763504858047
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -10.76121172572769,0.0,0.5050105619999954
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.16096027877964,0.0,0.5106330990660126
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.560733541418472,0.0,0.5158774593332964
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -11.960529079937828,0.0,0.5207737906564489
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -12.360344700276727,0.0,0.5253492261038559
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -12.760178405428604,0.0,0.5296320203609071
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -13.160028420439374,0.0,0.5336437677046888
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -13.559893129223894,0.0,0.5374077379231608
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -13.95977107730559,0.0,0.5409448738103038
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -14.359660955655613,0.0,0.5442740238802912
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -14.759561582422691,0.0,0.5474121517807475
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -15.159471897666037,0.0,0.5503745248087739
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -15.55939093253781,0.0,0.5531787184558539
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -15.9593178299761,0.0,0.5558367157393604
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -16.35925181489995,0.0,0.5583593013747645
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -16.759192178560625,0.0,0.5607600165300255
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -17.159138294260174,0.0,0.5630472133171338
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -17.559089586794556,0.0,0.5652322435756219
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -17.959045549656054,0.0,0.5673214890218219
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -18.359005715811833,0.0,0.569324528139191
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -18.75896966493235,0.0,0.571249981562687
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -19.158937018721076,0.0,0.5731056078635675
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -19.558907451612242,0.0,0.5748945548240272
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -19.958880655695538,0.0,0.5766234903797454
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -20.358856353851678,0.0,0.5782984156725774
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -20.758834296673342,0.0,0.5799247317301024
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -21.158814270869783,0.0,0.5815034645380592
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -21.558796073303455,0.0,0.5830393724225473
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -21.958779521150603,0.0,0.5845367378768742
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -22.358764449869852,0.0,0.5859994151450678
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -22.75875071137395,0.0,0.5874308730465145
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -23.158738172384375,0.0,0.5888342335186394
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -23.558726712950488,0.0,0.590212306305034
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -23.95871622511666,0.0,0.5915676201748852
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -24.35870661172288,0.0,0.5929024510203362
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -24.758697785325126,0.0,0.5942188471443615
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -25.15868967467435,0.0,0.5955148170878601
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -25.558682208195847,0.0,0.596792403469351
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -25.958675321472356,0.0,0.5980534446454726
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -26.35866895652839,0.0,0.599299595137154
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -26.758663061185956,0.0,0.6005323440132315
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -27.158657588484914,0.0,0.6017530314355213
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -27.558652496161102,0.0,0.6029628635497488
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -27.95864774617678,0.0,0.6041629258869534
+[20:41:15] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -28.358643304298,0.0,0.6053541954250363
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -18.796839270259767,0.0,0.11404430651600705
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -19.196835355241433,0.0,0.11522054036822738
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -19.596831664832024,0.0,0.11639036427044402
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -19.99682817657063,0.0,0.11755441921781085
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -20.396824870242455,0.0,0.11871328210588672
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -20.796821727654162,0.0,0.11986747214081106
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -21.19681873243178,0.0,0.1210174566079445
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -21.596815869838707,0.0,0.12216365606417412
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -21.99681312661201,0.0,0.12330644901072674
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -22.396810490815028,0.0,0.12444617609861552
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -22.796807951704807,0.0,0.12558314391378644
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -23.19680549961265,0.0,0.1267176283835738
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -23.59680312583677,0.0,0.12784987784255009
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -23.996800822545538,0.0,0.12898011579187596
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -24.39679858269048,0.0,0.13010854338256195
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -24.796796399927956,0.0,0.13123534165055162
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -25.196794268548757,0.0,0.13236067352812597
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -25.59679218341452,0.0,0.1334846856543095
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -25.996790139900753,0.0,0.13460751000434357
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -26.396788133845405,0.0,0.13572926535584884
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -26.796786161502638,0.0,0.1368500586086725
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -27.196784219501183,0.0,0.13796998597274523
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -27.596782304806908,0.0,0.13908913403696488
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -27.996780414689113,0.0,0.1402075807313281
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -28.396778546690115,0.0,0.14132539619282625
+[20:41:16] [Server thread/WARN]: Boat (vehicle of Rmphoenix66) moved too quickly! -28.79677669859808,0.0,0.14244264354476854
+[20:42:49] [User Authenticator #13/INFO]: UUID of player BigDaddyPappaSan is fbbd0673-aa39-4d5a-a054-ffeb3a96e837
+[20:42:49] [Server thread/INFO]: BigDaddyPappaSan[/192.168.0.104:52124] logged in with entity id 214769 at (1364.4150145588078, 93.0, 545.7528155294559)
+[20:42:49] [Server thread/INFO]: BigDaddyPappaSan joined the game
+[20:55:22] [Server thread/INFO]: Rmphoenix66 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:55:22] [Server thread/INFO]: Rmphoenix66 left the game
+[21:02:56] [Server thread/INFO]: BigDaddyPappaSan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:02:56] [Server thread/INFO]: BigDaddyPappaSan left the game
+[21:10:03] [User Authenticator #14/INFO]: UUID of player BigDaddyPappaSan is fbbd0673-aa39-4d5a-a054-ffeb3a96e837
+[21:10:03] [Server thread/INFO]: BigDaddyPappaSan[/192.168.0.104:52153] logged in with entity id 275237 at (-2907.7158491203727, 91.7125, 183.5)
+[21:10:03] [Server thread/INFO]: BigDaddyPappaSan joined the game
+[21:11:00] [Server thread/INFO]: BigDaddyPappaSan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:11:00] [Server thread/INFO]: BigDaddyPappaSan left the game
+[21:13:30] [User Authenticator #15/INFO]: UUID of player BigDaddyPappaSan is fbbd0673-aa39-4d5a-a054-ffeb3a96e837
+[21:13:30] [Server thread/INFO]: BigDaddyPappaSan[/192.168.0.104:52159] logged in with entity id 279636 at (-3360.9158491204757, 91.7125, 183.5)
+[21:13:30] [Server thread/INFO]: BigDaddyPappaSan joined the game
+[21:13:36] [User Authenticator #16/INFO]: UUID of player Rmphoenix66 is 46b16254-5521-434d-9786-f28397dbc863
+[21:13:36] [Server thread/INFO]: Rmphoenix66[/192.168.0.100:61507] logged in with entity id 281048 at (-132.84716057041484, 62.0, 774.0460331400265)
+[21:13:36] [Server thread/INFO]: Rmphoenix66 joined the game
+[21:20:51] [Server thread/INFO]: Rmphoenix66 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:20:51] [Server thread/INFO]: Rmphoenix66 left the game
+[21:37:32] [Server thread/INFO]: BigDaddyPappaSan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:37:32] [Server thread/INFO]: BigDaddyPappaSan left the game
+[21:51:00] [Server thread/INFO]: Stopping server
+[21:51:00] [Server thread/INFO]: Saving players
+[21:51:00] [Server thread/INFO]: Saving worlds
+[21:51:00] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[21:51:00] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[21:51:00] [Server thread/INFO]: Saving chunks for level 'world'/The End
